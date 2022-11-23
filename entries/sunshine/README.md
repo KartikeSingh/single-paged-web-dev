@@ -1,5 +1,6 @@
 <a name="readme-top"></a>
 
+# This is my entry for the contest :)
 
 <!-- PROJECT LOGO -->
 <br />
